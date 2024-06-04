@@ -10,3 +10,8 @@ h1{
     font-weight: 900;
     color: brown;
 }
+
+section{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
